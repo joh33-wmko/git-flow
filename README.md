@@ -1,6 +1,6 @@
 # git_flow
 
->git remote set-url origin https://joh33-wmko:<token>@github.com/KeckObservatoryArchive/<repo>
+>git remote set-url origin https://joh33-wmko:&lt;token&gt;@github.com/KeckObservatoryArchive/&lt;repo&gt;
 
 GitHub Project Repo (dev) <== pull request <== Personal GitHub Repo (main) <==> local repo (main) <==> local repo <dev>
 
